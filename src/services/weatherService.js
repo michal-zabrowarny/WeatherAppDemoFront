@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8080/weather";
+const API_BASE_URL = "https://weatherappdemo-596h.onrender.com/weather";
 
 export async function fetchWeatherForecast(lat, lon) {
     if (!lat || !lon) {
