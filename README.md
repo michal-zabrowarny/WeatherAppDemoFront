@@ -45,7 +45,7 @@ https://weatherappdemo-596h.onrender.com/weather/forecast?latitude=52.23&longitu
 ## Technologies Used
 
 - Vue 3
-- Vite or Vue CLI (depending on setup)
+- VUE Cli
 - Leaflet
 - Axios
 - Bootstrap 5
