@@ -14,10 +14,7 @@ It features an interactive map with Leaflet and a responsive forecast table.
   - Estimated solar energy production
 - Uses **Axios** for API integration
 - Styled with **Bootstrap 5**
-
-## Application Preview
-
-![App Screenshot](./screenshot.png)
+  
 
 ## Backend Integration
 
